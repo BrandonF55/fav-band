@@ -2,5 +2,13 @@
     float: left;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 200px;
+    border: 200px;
+    background-color: hotpink;
+    margin-top: 10%;
+    
+}
 
+.main{
+    box-sizing: border-box;
 }
